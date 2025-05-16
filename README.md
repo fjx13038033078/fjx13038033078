@@ -9,9 +9,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=fjx13038033078&repo=ruoyi-CERS&theme=rose"/>
-    </td>
-    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=fjx13038033078&repo=ruoyi-CERS&theme=rose" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=fjx13038033078&repo=ruoyi-ICH&theme=rose" />
     </td>
   </tr>
