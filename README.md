@@ -48,3 +48,17 @@
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github"/>
   </a>
 </p>
+---
+
+## 🏆 GitHub Achievements
+![trophy](https://stats.justsong.cn/api/github-profile-trophy/?username=fjx13038033078)
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/fjx13038033078/fjx13038033078/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/fjx13038033078/count.svg)
