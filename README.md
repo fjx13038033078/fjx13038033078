@@ -6,7 +6,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fjx13038033078&theme=rose&show_icons=true" />
+  <img width="48%" src="https://stats.justsong.cn/api?username=fjx13038033078&theme=rose&show_icons=true&include_all_commits=true" />
   <img width="48%" src="https://stats.justsong.cn/api/top-langs/?username=fjx13038033078&layout=donut&theme=rose&exclude_repo=github-readme-stats,anuraghazra.github.io" />
 </p>
 
