@@ -1,43 +1,53 @@
 <h2 align="center">Hi 👋, I'm FJX</h2>
 
 <p align="center">
-Java Backend Developer ｜ Spring Boot ｜ Cloud Native ｜ AI Integration
+Java 后端开发工程师 ｜ Java Backend Developer<br/>
+Spring Boot ｜ Cloud Native ｜ AI Integration
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me / 关于我
 
-- 🔭 Focus on **Java backend development**, familiar with Spring Boot / Spring Cloud microservice architecture  
-- 🌱 Currently learning **AI engineering**, large model integration (LLM + business systems), and high-concurrency system design  
-- 🚀 Interested in **Recommendation Systems**, **Video / Vision AI**, and **Distributed Systems**  
-- 🧠 Prefer projects that combine **algorithm logic + real system落地**
+- 🔭 专注于 **Java 后端开发**，熟悉 Spring Boot / Spring Cloud 微服务架构  
+  Focused on **Java backend development**, experienced with Spring Boot and Spring Cloud microservices  
+
+- 🌱 正在学习 **AI 工程化、大模型与业务系统集成、高并发系统设计**  
+  Currently learning **AI engineering, LLM integration, and high-concurrency system design**  
+
+- 🚀 对 **推荐系统、视频 / 视觉 AI、分布式系统** 方向保持长期兴趣  
+  Interested in **recommendation systems, video/vision AI, and distributed systems**  
+
+- 🧠 偏好将 **算法逻辑真正落地到业务系统中**  
+  Prefer building systems where **algorithms are applied in real-world scenarios**
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 Tech Stack / 技术栈
 
-- **Backend**: Java, Spring Boot, Spring Cloud, MyBatis, JPA  
-- **Database**: MySQL, Redis  
-- **Frontend**: Vue, Element UI  
+- **Backend / 后端**: Java, Spring Boot, Spring Cloud, MyBatis  
+- **Database / 数据库**: MySQL, Redis  
+- **Frontend / 前端**: Vue, Element UI  
 - **DevOps**: Docker, Linux  
-- **AI Integration**: LLM API, Dify, Ollama  
+- **AI Integration / 大模型集成**: LLM API, Dify, Ollama  
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects / 代表项目
 
 - **ruoyi-CERS**  
-  Intelligent system based on RuoYi Cloud, focusing on business management and data analysis
+  基于 RuoYi Cloud 的业务管理系统，聚焦业务流程与数据分析能力  
+  Business management system based on RuoYi Cloud, focusing on process and data analysis  
 
 - **ruoyi-ICH**  
-  A RuoYi-based platform integrating recommendation logic and structured data management
+  融合推荐逻辑与结构化数据管理的综合平台  
+  A platform integrating recommendation logic with structured data management  
 
-> More projects are continuously being improved and refactored 🚧
+> 更多项目仍在持续完善与重构中 / More projects are under active development 🚧
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me / 联系方式
 
 - GitHub: https://github.com/fjx13038033078
 
