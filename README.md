@@ -1,64 +1,48 @@
 <h2 align="center">Hi 👋, I'm FJX</h2>
-<p align="center">Java / Spring Boot / Cloud / AI Integration Developer</p>
+
+<p align="center">
+Java Backend Developer ｜ Spring Boot ｜ Cloud Native ｜ AI Integration
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fjx13038033078&show_icons=true&theme=rose" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjx13038033078&layout=donut&theme=rose" />
-</p>
+- 🔭 Focus on **Java backend development**, familiar with Spring Boot / Spring Cloud microservice architecture  
+- 🌱 Currently learning **AI engineering**, large model integration (LLM + business systems), and high-concurrency system design  
+- 🚀 Interested in **Recommendation Systems**, **Video / Vision AI**, and **Distributed Systems**  
+- 🧠 Prefer projects that combine **algorithm logic + real system落地**
+
+---
+
+## 🧩 Tech Stack
+
+- **Backend**: Java, Spring Boot, Spring Cloud, MyBatis, JPA  
+- **Database**: MySQL, Redis  
+- **Frontend**: Vue, Element UI  
+- **DevOps**: Docker, Linux  
+- **AI Integration**: LLM API, Dify, Ollama  
 
 ---
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <img src="https://stats.justsong.cn/api/pin/?username=fjx13038033078&repo=ruoyi-CERS&theme=rose" />
-  <img src="https://stats.justsong.cn/api/pin/?username=fjx13038033078&repo=ruoyi-ICH&theme=rose" />
-</p> 
+- **ruoyi-CERS**  
+  Intelligent system based on RuoYi Cloud, focusing on business management and data analysis
 
----
+- **ruoyi-ICH**  
+  A RuoYi-based platform integrating recommendation logic and structured data management
 
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-3EDBF0?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
----
-
-## ✨ About Me
-
-- 🔭 Backend Engineer focused on: Spring Cloud / Microservices / AI Service Integration  
-- 🌱 Currently Learning: AI engineering + high concurrency system design  
-- 🚀 Interested in: Recommendation Systems / Video AI / Distributed Systems  
+> More projects are continuously being improved and refactored 🚧
 
 ---
 
 ## 📫 Connect with Me
 
-<p align="center">
-  <a href="https://github.com/fjx13038033078">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github"/>
-  </a>
-</p>
----
-
-## 🏆 GitHub Achievements
-![trophy](https://stats.justsong.cn/api/github-profile-trophy/?username=fjx13038033078)
+- GitHub: https://github.com/fjx13038033078
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
+
 ![snake gif](https://raw.githubusercontent.com/fjx13038033078/fjx13038033078/output/github-contribution-grid-snake.svg)
-
----
-
-## 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/fjx13038033078/count.svg)
