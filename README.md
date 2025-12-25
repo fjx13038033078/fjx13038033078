@@ -36,12 +36,12 @@ Spring Boot ｜ Cloud Native ｜ AI Integration
 ## 📌 Featured Projects / 代表项目
 
 - **ruoyi-CERS**  
-  基于 RuoYi Cloud 的业务管理系统，聚焦业务流程与数据分析能力  
-  Business management system based on RuoYi Cloud, focusing on process and data analysis  
+  基于协同过滤推荐算法的高考志愿推荐系统，实现首页e-chatrs地图展示  
+  A college application recommendation system based on collaborative filtering algorithm, displaying an e-chatrs map on the homepage.  
 
-- **ruoyi-ICH**  
-  融合推荐逻辑与结构化数据管理的综合平台  
-  A platform integrating recommendation logic with structured data management  
+- **ruoyi-DRS**  
+  基于协同过滤推荐算法的纪录片推荐系统，拥有超两万条真实数据，可以根据不同时间段进行个性化推荐  
+  This documentary recommendation system, based on a collaborative filtering algorithm, has over 20,000 real data entries and can provide personalized recommendations based on different time periods.  
 
 > 更多项目仍在持续完善与重构中 / More projects are under active development 🚧
 
