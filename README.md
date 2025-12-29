@@ -49,6 +49,7 @@ Spring Boot ｜ Cloud Native ｜ AI Integration
 
 ## 📫 Connect with Me / 联系方式
 
+- WeChat / 微信: 445981543
 - GitHub: https://github.com/fjx13038033078
 
 ---
